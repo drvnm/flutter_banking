@@ -1,0 +1,20 @@
+{
+    "Home": "Startseite",
+    "History": "Geschichte",
+    "Exp. Date": "Verfallsdatum",
+    "transaction": "Transaktion",
+    "deposit": "Hinterlegung",
+    "withdraw": "Zurückziehen",
+    "Amount": "Menge",
+    "NAME": "Name",
+    "Transfer": "Transfer",
+    "Language": "Sprache",
+    "Laungage settings": "Laungage-Einstellungen",
+    "Logout": "Ausloggen",
+    "Logout from current bank account": "Vom aktuellen Bankkonto abmelden",
+    "SETTINGS": "EINSTELLUNGEN",
+    "You are about to logout": "Sie sind dabei, sich abzumelden",
+    "This action will log you out and remove the data from your device.": "Durch diese Aktion werden Sie abgemeldet und die Daten von Ihrem Gerät entfernt.",
+    "OK": "OK",
+    "CANCEL": "STORNIEREN"
+  }

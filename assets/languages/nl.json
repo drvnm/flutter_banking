@@ -1,0 +1,20 @@
+{
+    "Home": "Home",
+    "History": "Geschiedenis",
+    "Exp. Date": "Verval datum",
+    "transaction": "Transactie",
+    "deposit": "Storting",
+    "withdraw": "Opname",
+    "Amount": "Bedrag",
+    "NAME": "Naam",
+    "Transfer": "Overboeking",
+    "Language": "Taal",
+    "Laungage settings": "Taal instellingen",
+    "Logout": "Uitloggen",
+    "Logout from current bank account": "Uitloggen van huidige bankrekening",
+    "SETTINGS": "INSTELLINGEN",
+    "You are about to logout": "U staat op het punt om uit te loggen",
+    "This action will log you out and remove the data from your device.": "Deze actie zal u uitloggen en de gegevens van uw apparaat verwijderen.",
+    "OK": "OK",
+    "CANCEL": "ANNULEREN"
+  }

@@ -1,0 +1,20 @@
+{
+    "Home": "Aperçu",
+    "History": "Histoire",
+    "Exp. Date": "Date d'expiration",
+    "transaction": "Transaction",
+    "deposit": "Verser",
+    "withdraw": "Retirer",
+    "Amount": "Montant",
+    "NAME": "Nom",
+    "Transfer": "Transfert",
+    "Language": "Langue",
+    "Laungage settings": "Paramètres de langue",
+    "Logout": "Déconnexion",
+    "Logout from current bank account": "Se déconnecter du compte bancaire actuel",
+    "SETTINGS": "Paramètres",
+    "You are about to logout": "Vous êtes sur le point de vous déconnecter",
+    "This action will log you out and remove the data from your device.": "Cette action vous déconnectera et supprimera les données de votre appareil.",
+    "OK": "OK",
+    "Cancel": "Annuler"
+  }
